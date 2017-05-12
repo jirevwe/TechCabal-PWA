@@ -17,7 +17,7 @@
             .catch((error) => {
                 console.log('[TC FETCH ERROR]\n', error);
             });
-            return callback();
+            callback();
         })
         .catch((error) => {
             console.log('[TC LIST FETCH ERROR] \n', error);
@@ -50,9 +50,8 @@
                         '<tr>' +
                         '<td colspan="2"></td>' +
                         '<td class="subtext">' +
-                        '<span class="score">points</span> by ' + item.author +
-                        '<span class="age">' + item.pubDate +'</span>' +
-                        // '<a href="item?id=' + item.id +'">23&nbsp;comments</a> </td>' +
+                        '<span class="score">points</span> by <b>' + item.author +
+                        '</b><span class="age"> on ' + item.pubDate +'</span>' +
                         '</tr>' +
                         '<tr class="spacer" style="height:5px"></tr>';
                     document.getElementById('yc-table').innerHTML = placeHolders;

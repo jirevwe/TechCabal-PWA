@@ -1,22 +1,17 @@
 {
-    "name": "Hacker News PWA",
-    "short_name": "HN-PWA",
-    "description": "This is a hacker News PWA test",
-    "start_url": "./",
+    "name": "TechCabal PWA",
+    "short_name": "TC-PWA",
+    "description": "This is a TechCabal PWA",
+    "start_url": "index.html",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#ff6600",
     "theme_color": "#ff6600",
     "icons": [
         {
-            "src": "./images/logo.jpg",
-            "type": "image/jpg",
+            "src": "./images/logo.png",
+            "type": "image/png",
             "sizes": "192x192"
         }
-    ],
-    "author": {
-        "name": "Tukpe Raymond",
-        "website": "https://twitter.com/rtukpe",
-        "github": "https://github.com/jirevwe"
-    }
+    ]
 }
