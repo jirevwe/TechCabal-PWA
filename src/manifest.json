@@ -2,7 +2,7 @@
     "name": "Hacker News PWA",
     "short_name": "HN-PWA",
     "description": "This is a hacker News PWA test",
-    "start_url": "./index.html",
+    "start_url": "./",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#ff6600",
