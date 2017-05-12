@@ -78,7 +78,7 @@
                                 '<a href="item?id=' + result.id +'">23&nbsp;comments</a> </td>' +
                                 '</tr>' +
                                 '<tr class="spacer" style="height:5px"></tr>';
-                            $('#yc-table').append(placeHolders);
+                            document.getElementById('yc-table').innerHTML = placeHolders;
                         }).catch((err) => {
                             console.log('[ERROR SAVING DATA] => \n', err);
                         });
