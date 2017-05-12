@@ -2,7 +2,6 @@
   "name": "service-worker",
   "version": "1.0.0",
   "description": "Service Worker For Caching Files",
-  "main": "gulpfile.js",
   "engines":{
     "node": "6.10.0"
   },

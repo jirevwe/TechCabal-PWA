@@ -4,6 +4,7 @@ var app = function () {
   var app = express();
 
   app.set('views', __dirname + '/src');
+  app.use(express.static(path.join(__dirname, 'src')));
   app.engine('html', require('ejs').renderFile);
   app.get('/', function(req, res) {
     res.render('index.html');
