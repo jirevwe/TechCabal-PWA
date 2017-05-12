@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "Service Worker For Caching Files",
   "main": "gulpfile.js",
+  "engines":{
+    node: '6.10.0'
+  }
   "devDependencies": {
     "gulp-util": "^3.0.7",
     "gulp": "^3.9.1",
     "gulp-connect": "^2.3.1"
   },
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "postinstall": "gulp default"
   },
   "license": "ISC",
   "dependencies": {
