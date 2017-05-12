@@ -4,7 +4,7 @@
   "description": "Service Worker For Caching Files",
   "main": "gulpfile.js",
   "engines":{
-    node: '6.10.0'
+    "node": "6.10.0"
   }
   "devDependencies": {
     "gulp-util": "^3.0.7",
