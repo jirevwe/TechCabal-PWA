@@ -6,6 +6,6 @@
 ### Also, I did it in less than 24hrs so... (I have no excuses though 🙄) 
 ### It looks ugly too... I dubbed css (I'm not a css person, sorry)
 
-### It's aLIVE!!! [TechCabal PWA Trial](https://tc-pwa.herokuapp.com/)
+### It's aLIVE!!! [TechCabal PWA Trial](https://tc-pwa.herokuapp.com/)... Just add it to your home screen and witness the magic (not magic sha, but you get).
 
 ![alt text](https://github.com/jirevwe/Hacker-News-PWA/blob/master/Screen%20Shot.png "Demo")
