@@ -6,6 +6,6 @@ I've also not done articles view yet...
 Also, I did it in less than 24hrs so... (I have no excuses though 🙄) 
 It looks ugly too... I dubbed css (I'm not a css person, sorry)
 
-It's aLIVE!!! [TechCabal PWA Trial](https://hacker-news-pwa.herokuapp.com/)
+It's aLIVE!!! [TechCabal PWA Trial](https://tc-pwa.herokuapp.com/)
 
 ![alt text](https://github.com/jirevwe/Hacker-News-PWA/blob/master/Screen%20Shot.png "Demo")
